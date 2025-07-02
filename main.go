@@ -1,4 +1,4 @@
-package privacyidea_akc
+package main
 
 import "fmt"
 
